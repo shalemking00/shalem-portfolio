@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shalem-portfolio/static/css/main.5fd183c7.css",
+    "main.js": "/shalem-portfolio/static/js/main.76b5aab7.js",
+    "index.html": "/shalem-portfolio/index.html",
+    "main.5fd183c7.css.map": "/shalem-portfolio/static/css/main.5fd183c7.css.map",
+    "main.76b5aab7.js.map": "/shalem-portfolio/static/js/main.76b5aab7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fd183c7.css",
+    "static/js/main.76b5aab7.js"
+  ]
+}
